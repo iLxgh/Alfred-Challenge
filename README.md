@@ -23,7 +23,6 @@ Una prueba tecnica, con integración de mapas interactivos, búsqueda avanzada y
 
 - **Diseño responsivo** adaptado a todos los dispositivos
 - **Modo oscuro/claro** con transiciones suaves
-- **Animaciones y transiciones** modernas usando GSAP y Tailwind CSS
 - **Shaders y efectos visuales** con `@paper-design/shaders-react`
 - **Tipografía personalizada** con fuentes Geist y Silk Serif
 
