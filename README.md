@@ -2,6 +2,20 @@
 
 Una prueba tecnica, con integración de mapas interactivos, búsqueda avanzada y diseño responsivo.
 
+## 📸 Vista previa
+
+<div align="center">
+
+### Pantallas del proyecto
+
+<img width="500" alt="Vista previa 1" src="https://github.com/user-attachments/assets/d027f971-d75a-4900-b069-1b77aefed24b" />
+
+<br/>
+
+<img width="500" alt="Vista previa 2" src="https://github.com/user-attachments/assets/3a340ddf-dbaf-4146-976e-e4312dd088cb" />
+
+</div>
+
 ## ✨ Características Principales
 
 ### 🔍 Búsqueda y Exploración
