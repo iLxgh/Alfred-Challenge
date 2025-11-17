@@ -51,7 +51,6 @@ Una prueba tecnica, con integración de mapas interactivos, búsqueda avanzada y
 
 - **Tailwind CSS 4** - Framework de utilidades CSS
 - **Lucide React** - Iconos modernos
-- **GSAP** - Animaciones avanzadas
 - **@paper-design/shaders-react** - Efectos visuales y shaders
 - **class-variance-authority** - Gestión de variantes de componentes
 
